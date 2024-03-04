@@ -4,14 +4,14 @@ hakkicanercetin {
   title: Jr. Frontend Developer;
   age:25;
   skills:[
-"HTML",
-"CSS",
-"Javascript",
-"Typescript",
-"React"
-];
+  "HTML",
+  "CSS",
+  "Javascript",
+  "Typescript",
+  "React"
+  ];
   hobbies:["To research and experience new technologies",
-"Watching football match(I'm a big Galatasaray fan!)"]
+  "Watching football match(I'm a big Galatasaray fan!)"]
 }
 ```
 <div align="left">
