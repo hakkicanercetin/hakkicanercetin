@@ -1,7 +1,7 @@
 ```css
 hakkicanercetin { 
   location: Balıkesir; 
-  permission: Frontend Developer;
+  title: Jr. Frontend Developer;
   age:25;
   skills:[
   "HTML",
