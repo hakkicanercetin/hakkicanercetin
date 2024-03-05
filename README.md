@@ -3,17 +3,17 @@
 </h1>
 
 ```css
-hakkicanercetin { 
-  location: Balıkesir/Turkey; 
-  title: Jr. Frontend Developer;
-  age:25;
+const hakkicanercetin = { 
+  location: Balıkesir/Turkey,
+  title: Jr. Frontend Developer,
+  age:25,
   skills:[
   "HTML",
   "CSS",
   "Javascript",
   "Typescript",
   "React"
-  ];
+  ],
   hobbies:["To research and experience new technologies",
   "Watching football match(I'm a big Galatasaray fan!)"]
 }
