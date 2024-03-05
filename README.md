@@ -4,8 +4,8 @@
 
 ```css
 const hakkicanercetin = { 
-  location: Balıkesir/Turkey,
-  title: Jr. Frontend Developer,
+  location: "Balıkesir/Turkey",
+  title: "Jr. Frontend Developer",
   age:25,
   skills:[
   "HTML",
